@@ -4,7 +4,7 @@ git add *
 git commit -m "update"
 git push origin main
 #git add script 
-#git add work
+git add work
 
 echo " "
 echo " "
