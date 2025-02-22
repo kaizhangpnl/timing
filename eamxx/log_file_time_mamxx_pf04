@@ -1,0 +1,47 @@
+drwxrws---+ 3 ac.kai.zhang E3SM 4.0K Feb 21 18:12 timing
+-rw-rw----+ 1 ac.kai.zhang E3SM  113 Feb 21 18:12 CASEROOT
+drwxrws---+ 2 ac.kai.zhang E3SM 4.0K Feb 21 18:12 data
+-rw-rw----+ 1 ac.kai.zhang E3SM 3.3K Feb 21 18:12 lnd_in
+-rw-rw----+ 1 ac.kai.zhang E3SM 2.8K Feb 21 18:12 ice_in
+-rw-rw----+ 1 ac.kai.zhang E3SM  652 Feb 21 18:12 docn_in
+-rw-rw----+ 1 ac.kai.zhang E3SM  680 Feb 21 18:12 docn.streams.txt.prescribed
+-rw-rw----+ 1 ac.kai.zhang E3SM 7.2K Feb 21 18:12 drv_in
+-rw-rw----+ 1 ac.kai.zhang E3SM 2.9K Feb 21 18:12 seq_maps.rc
+-rw-rw----+ 1 ac.kai.zhang E3SM  443 Feb 21 18:12 glc_modelio.nml
+-rw-rw----+ 1 ac.kai.zhang E3SM  443 Feb 21 18:12 iac_modelio.nml
+-rw-rw----+ 1 ac.kai.zhang E3SM  443 Feb 21 18:12 ocn_modelio.nml
+-rw-rw----+ 1 ac.kai.zhang E3SM  448 Feb 21 18:12 esp_modelio.nml
+-rw-rw----+ 1 ac.kai.zhang E3SM  443 Feb 21 18:12 ice_modelio.nml
+-rw-rw----+ 1 ac.kai.zhang E3SM  443 Feb 21 18:12 wav_modelio.nml
+-rw-rw----+ 1 ac.kai.zhang E3SM  443 Feb 21 18:12 lnd_modelio.nml
+-rw-rw----+ 1 ac.kai.zhang E3SM  443 Feb 21 18:12 atm_modelio.nml
+-rw-rw----+ 1 ac.kai.zhang E3SM  443 Feb 21 18:12 rof_modelio.nml
+-rw-rw----+ 1 ac.kai.zhang E3SM  443 Feb 21 18:12 cpl_modelio.nml
+-rw-rw----+ 1 ac.kai.zhang E3SM    0 Feb 21 18:12 preview_run.log.694408.250221-181206
+-rw-rw----+ 1 ac.kai.zhang E3SM 1.5K Feb 21 18:12 preview_run.log
+drwxrws---+ 2 ac.kai.zhang E3SM 4.0K Feb 21 18:12 spio_stats
+-rw-rw----+ 1 ac.kai.zhang E3SM    8 Feb 21 18:12 syslog_jobid.694408
+-rw-rw----+ 1 ac.kai.zhang E3SM  147 Feb 21 18:12 mass.out
+-rw-rw----+ 1 ac.kai.zhang E3SM  37K Feb 21 18:12 homme_atm.log.694408.250221-181206
+lrwxrwxrwx  1 ac.kai.zhang E3SM  103 Feb 21 18:35 r2 -> /lcrc/group/e3sm/ac.kzhang/model/e3sm_s20250129/E3SM/work/F2010-SCREAMv1_ne30pg2_ne30pg2_ctrl_pf01/run/
+-rw-rw----+ 1 ac.kai.zhang E3SM  76K Feb 21 18:42 cpl.log.694408.250221-181206
+-rw-rw----+ 1 ac.kai.zhang E3SM 8.4K Feb 21 18:42 memory.3.86400.log
+-rw-rw----+ 1 ac.kai.zhang E3SM    9 Feb 21 18:43 Walltime.Remaining
+-rw-rw----+ 1 ac.kai.zhang E3SM 109K Feb 21 18:43 atm.log.694408.250221-181206
+-rw-r-----+ 1 ac.kai.zhang E3SM 6.5M Feb 21 18:43 F2010-SCREAMv1_ne30pg2_ne30pg2_mamxx_pf04.cice.h.0001-01.nc
+-rw-rw----+ 1 ac.kai.zhang E3SM  257 Feb 21 18:43 rpointer.ice
+-rw-r-----+ 1 ac.kai.zhang E3SM 5.8M Feb 21 18:43 F2010-SCREAMv1_ne30pg2_ne30pg2_mamxx_pf04.cice.r.0001-02-01-00000.nc
+-rw-rw----+ 1 ac.kai.zhang E3SM 183K Feb 21 18:43 ice.log.694408.250221-181206
+-rw-r-----+ 1 ac.kai.zhang E3SM  38M Feb 21 18:43 F2010-SCREAMv1_ne30pg2_ne30pg2_mamxx_pf04.elm.h0.0001-01.nc
+-rw-r-----+ 1 ac.kai.zhang E3SM 472K Feb 21 18:43 F2010-SCREAMv1_ne30pg2_ne30pg2_mamxx_pf04.elm.rh0.0001-02-01-00000.nc
+-rw-r-----+ 1 ac.kai.zhang E3SM 385M Feb 21 18:43 F2010-SCREAMv1_ne30pg2_ne30pg2_mamxx_pf04.elm.r.0001-02-01-00000.nc
+-rw-rw----+ 1 ac.kai.zhang E3SM  257 Feb 21 18:43 rpointer.lnd
+-rw-rw----+ 1 ac.kai.zhang E3SM 202K Feb 21 18:43 lnd.log.694408.250221-181206
+-rw-rw----+ 1 ac.kai.zhang E3SM  514 Feb 21 18:43 rpointer.ocn
+-rw-rw----+ 1 ac.kai.zhang E3SM  11K Feb 21 18:43 F2010-SCREAMv1_ne30pg2_ne30pg2_mamxx_pf04.docn.rs1.0001-02-01-00000.bin
+-rw-rw----+ 1 ac.kai.zhang E3SM 1.9M Feb 21 18:43 ocn.log.694408.250221-181206
+-rw-rw----+ 1 ac.kai.zhang E3SM   90 Feb 21 18:43 rpointer.atm
+-rw-r-----+ 1 ac.kai.zhang E3SM  65M Feb 21 18:43 F2010-SCREAMv1_ne30pg2_ne30pg2_mamxx_pf04.scream.r.INSTANT.nmonths_x1.0001-02-01-00000.nc
+-rw-rw----+ 1 ac.kai.zhang E3SM 478K Feb 21 18:43 e3sm.log.694408.250221-181206
+
+
